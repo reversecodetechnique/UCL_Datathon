@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project is a machine learning pipeline designed to predict the outcomes of UEFA Champions League (UCL) knockout matches. By combining historical match data with advanced metrics like expected goals (xG) scraped from the web, the model simulates tournament brackets round by round to predict the ultimate champion. The pipeline utilizes LightGBM, rigorous feature engineering, and time-series cross-validation to achieve high predictive accuracy.
+This project is a machine learning pipeline designed to predict the outcomes of UEFA Champions League (UCL) knockout matches. By combining historical match data with advanced metrics like expected goals (xG) scraped from the web (Understat.com), the model simulates tournament brackets round by round to predict the ultimate champion. The pipeline utilizes LightGBM, rigorous feature engineering, and time-series cross-validation to achieve high predictive accuracy.
 
 ---
 
